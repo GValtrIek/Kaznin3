@@ -1,0 +1,60 @@
+.prew {
+    background: url('../img/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg');
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
+.prew2 {
+    background: url('../img/AEBa43gsr3I.jpg');
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+}
+.prew3 {
+    background: url('../img/R7Igz62B6fE.jpg');
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+}
+body{
+    background: rgb(123, 231, 145);
+}
+
+*{
+    font-size: 16px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+}
+h2 {
+    font-size: 20px;
+
+}
+h3 {
+    font-size: 18px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul { 
+    background: rgb(242, 21, 145);
+}
+li {
+    padding: 10px;
+}
+
+.content {
+    display: flex;
+}
+.content main {
+    width: 70%;
+}
+.content aside{
+    width: 30%;
+    background-color: rgb(134, 143, 132);
+}
